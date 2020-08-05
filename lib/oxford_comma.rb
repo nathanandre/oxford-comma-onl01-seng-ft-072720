@@ -7,11 +7,10 @@ def oxford_comma(array)
     
   elsif array.length > 2
     array.insert(-1, "and")
-	array.split(",")
+	array.join(", ")
   else
     array
   end
     
 end
 
-["kiwi", "durian", "starfruit", "mangos"]
