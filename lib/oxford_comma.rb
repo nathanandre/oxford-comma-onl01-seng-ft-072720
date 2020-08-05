@@ -14,4 +14,4 @@ def oxford_comma(array)
     
 end
 
-kiwi and durian
+["kiwi", "durian", "starfruit", "mangos"]
